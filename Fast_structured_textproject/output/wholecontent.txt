@@ -1,0 +1,393 @@
+|Contract
+|Contract
+|Contract No: 
+|Contract No: 
+GEMC-511687748928774
+|Generated Date :
+|Generated Date :
+16-Jan-2025
+|Bid/RA/PBP No.:
+|Bid/RA/PBP No.:
+ GEM/2024/B/5273888
+|Organisation Details
+|Organisation Details
+|Type :
+Central PSU
+|Ministry :
+PMO
+|Department :
+Department of Atomic Energy
+|Organisation Name :
+Directorate of Purchase and Stores
+|Oﬃce Zone:
+Directorate Of Purchase And Stores
+|Buyer Details
+|Buyer Details
+|Designation :
+APO
+|Contact No. :
+|Email ID :
+apo3mrpu.tndae@nic.in
+|GSTIN :
+|Address :
+MADRAS REGIONAL PURCHASE UNIT, SHASTRI BHAVAN, 4
+HADDOWS ROAD,,
+Chennai, TAMIL NADU-600006, India
+|Financial Approval Detail
+|Financial Approval Detail
+|IFD Concurrence :
+No
+Designation of Administrative Approval:
+CAO
+Designation of Financial Approval :
+DCA
+|Paying Authority Details
+|Paying Authority Details
+Role:
+PAO
+Payment Mode:
+Offline
+|Designation :
+DCA MRPU
+|Email ID :
+dcamrpu.tndae@nic.in
+|GSTIN :
+|Address:
+MADRAS REGIONAL PURCHASE UNIT, SHASTRI BHAVAN, 4
+HADDOWS ROAD,,
+Chennai, TAMIL NADU-600006, India
+|Seller Details
+|Seller Details
+|GeM Seller ID :
+229F190000979703
+|Company Name :
+Balajee Steel Syndicate
+|Contact No. :
+|Email ID :
+bssmanish@gmail.com
+| Address :
+4,SEMBUDOSS STREET,GEORGE TOWN,
+Chennai, TAMIL NADU-600001, -
+|MSME Registration number :
+UDYAM-TN-02-0043987
+|GSTIN:
+33AACPB0858R1ZM (R)
+ | MII Status as
+evaluated by buyer :
+Verified
+ |MSME Status as
+verified by buyer :
+Not Verified
+|MSE Social Category :
+General
+|MSE Gender :
+Female
+ GST/TAX 
+|GST / Tax invoice to be raised in the name of - Consignee
+ | Delivery Instructions : 
+NA
+|Product Details
+|Product Details
+|Item Description
+|Item Description
+Ordered
+Ordered
+Quantity
+Quantity
+Unit
+Unit
+(INR)|
+(INR)|
+Unit Price
+Unit Price
+(INR)
+(INR)
+ (INR)|
+ (INR)|
+Tax Bifurcation
+Tax Bifurcation
+(INR)
+(INR)
+(INR 
+(INR 
+Price
+Price
+(Inclusive of
+(Inclusive of
+all Duties and
+all Duties and
+Taxes in INR)
+Taxes in INR)
+ |Product Name : 
+ |Product Name : 
+MS Channels, ISMC 75, as per the attached
+specifications
+|Brand : 
+|Brand : 
+Reseller
+|Brand Type : 
+|Brand Type : 
+NA
+|Catalogue Status: 
+|Catalogue Status: 
+NA
+|Selling As : 
+|Selling As : 
+NA
+|Category Name & Quadrant : 
+|Category Name & Quadrant : 
+NA (-)
+|Model:
+|Model:
+MS 
+Channels, 
+ISMC 
+as 
+per 
+the 
+attached 
+specific 
+|HSN Code: 
+|HSN Code: 
+HSN not specified by seller
+metric
+tonne
+NA
+ |Product Name : 
+ |Product Name : 
+MS Channels, ISMC 100, as per the attached
+specifications
+|Brand : 
+|Brand : 
+Reseller
+|Brand Type : 
+|Brand Type : 
+NA
+|Catalogue Status: 
+|Catalogue Status: 
+NA
+|Selling As : 
+|Selling As : 
+NA
+|Category Name & Quadrant : 
+|Category Name & Quadrant : 
+NA (-)
+|Model:
+|Model:
+MS 
+Channels, 
+ISMC 
+as 
+per 
+the 
+attached 
+specifi 
+|HSN Code: 
+|HSN Code: 
+HSN not specified by seller
+metric
+tonne
+NA
+ |Total Order Value 
+(in INR)
+|Consignee Detail
+|Consignee Detail
+|S.No
+|S.No
+|Consignee
+|Consignee
+|Item
+|Item
+Lot No.
+Lot No.
+|Quantity
+|Quantity
+Delivery Start
+Delivery Start
+After
+After
+Delivery To
+Delivery To
+Be
+Be
+Completed
+Completed
+By
+By
+| Designation : 
+|Email ID : 
+asortwo@igcar.gov.in
+|Contact : 
+|GSTIN : 
+|Address : 
+DPS/IGCAR, Central Stores Unit, Kalpakkam .,
+KANCHEEPURAM, TAMIL NADU-603102, India
+MS Channels, ISMC 75,
+as per the attached
+specifications
+16-Jan-2025
+16-Apr-2025
+MS Channels, ISMC 100,
+as per the attached
+specifications
+16-Jan-2025
+16-Apr-2025
+Product Specification for MS Channels, ISMC 75, as per the attached specifications
+Product Specification for MS Channels, ISMC 75, as per the attached specifications
+|Speciﬁcation
+|Speciﬁcation
+|Sub-Spec
+|Sub-Spec
+|Value
+|Value
+Custom Specification
+Custom Specification
+Yes 
+|Seller Speciﬁcation Document:
+|Seller Speciﬁcation Document:
+SpecificationDocument1
+mkp.gem.gov.in/catalog_data/catalog_support_document/28/16/305/CatalogAttrs/SpecificationDoc
+ument/2024/9/6/2024_09_06_15_37_52_dae3888_2024-09-06-15-37-
+54_3139adbd38b6543f19c3854187f9ea29.pdf
+|Buyer Speciﬁcation Document:
+|Buyer Speciﬁcation Document:
+SpecificationDocument
+mkp.gem.gov.in/catalog_data/catalog_support_document/buyer_documents/2063392/54/78/703/Catal
+ogAttrs/SpecificationDocument/2024/8/9/13028_techspec_2024-08-09-14-31-
+06_68bfb35ed34dc536285b56b82b
+f2cdcf.pdf
+Product Specification for MS Channels, ISMC 100, as per the attached specifications
+Product Specification for MS Channels, ISMC 100, as per the attached specifications
+|Speciﬁcation
+|Speciﬁcation
+|Sub-Spec
+|Sub-Spec
+|Value
+|Value
+Custom Specification
+Custom Specification
+Yes 
+|Seller Speciﬁcation Document:
+|Seller Speciﬁcation Document:
+SpecificationDocument1
+mkp.gem.gov.in/catalog_data/catalog_support_document/28/16/305/CatalogAttrs/SpecificationDoc
+ument/2024/9/6/2024_09_06_15_42_30_dae3888_2024-09-06-15-42-
+32_a3753cba3b43486dbe69a050d329a1d3.pdf
+|Buyer Speciﬁcation Document:
+|Buyer Speciﬁcation Document:
+SpecificationDocument
+mkp.gem.gov.in/catalog_data/catalog_support_document/buyer_documents/2063392/54/78/703/Catal
+ogAttrs/SpecificationDocument/2024/8/9/13028_techspec_2024-08-09-14-39-
+17_e1b7d5b00bd0d9b9aafe29d2e5
+b161ce.pdf
+| ePBG Detail
+| ePBG Detail
+|Terms and Conditions
+|Terms and Conditions
+1. General Terms and Conditions-
+1. General Terms and Conditions-
+This contract is governed by the 
+This contract is governed by the 
+General Terms and Conditions
+General Terms and Conditions
+, conditions stipulated to this Product/Service as provided in the Marketplace.
+, conditions stipulated to this Product/Service as provided in the Marketplace.
+This Contract between the Seller and the Buyer, is for the supply of the Goods and/ or Services, detailed in the schedule above, in accordance with the General Terms and
+This Contract between the Seller and the Buyer, is for the supply of the Goods and/ or Services, detailed in the schedule above, in accordance with the General Terms and
+Conditions (GTC) unless otherwise superseded by Goods / Services specific Special Terms and Conditions (STC) and/ or BID/Reverse Auction Additional Terms and Conditions
+Conditions (GTC) unless otherwise superseded by Goods / Services specific Special Terms and Conditions (STC) and/ or BID/Reverse Auction Additional Terms and Conditions
+(ATC), as applicable
+(ATC), as applicable
+All GeM Sellers / Service Providers are mandated to ensure compliance with all the applicable laws / acts / rules including but not limited to all Labour Laws such as The
+All GeM Sellers / Service Providers are mandated to ensure compliance with all the applicable laws / acts / rules including but not limited to all Labour Laws such as The
+Minimum Wages Act, 1948, The Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The Equal Remuneration Act, 1976, The Payment of Gratuity Act, 1972 etc. Any
+Minimum Wages Act, 1948, The Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The Equal Remuneration Act, 1976, The Payment of Gratuity Act, 1972 etc. Any
+Advisory Bank :
+Advisory Bank :
+State Bank of India
+| ePBG Percentage(%):
+| ePBG Percentage(%):
+|The bidder shall furnish ePBG as applicable as per bid's terms and conditions
+|The bidder shall furnish ePBG as applicable as per bid's terms and conditions
+non-compliance will be treated as breach of contract and Buyer may take suitable actions as per GeM Contract.
+non-compliance will be treated as breach of contract and Buyer may take suitable actions as per GeM Contract.
+2. Buyer Added Bid Specific Terms and Conditions-
+2. Buyer Added Bid Specific Terms and Conditions-
+Scope of Supply
+Scope of Supply
+Scope of supply (Bid price to include all cost components) : Only supply of Goods
+Scope of supply (Bid price to include all cost components) : Only supply of Goods
+Generic
+Generic
+Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per
+Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any responsibility in this regards. GST reimbursement will be as per actuals or as per
+applicable rates (whichever is lower), subject to the maximum of quoted GST %.
+applicable rates (whichever is lower), subject to the maximum of quoted GST %.
+Purchase Preference (Centre)
+Purchase Preference (Centre)
+Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises
+Purchase preference to Micro and Small Enterprises (MSEs): Purchase preference will be given to MSEs as defined in Public Procurement Policy for Micro and Small Enterprises
+(MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the
+(MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and its subsequent Orders/Notifications issued by concerned Ministry. If the
+bidder wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the
+bidder wants to avail the Purchase preference, the bidder must be the manufacturer of the offered product in case of bid for supply of goods. Traders are excluded from the
+purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant
+purview of Public Procurement Policy for Micro and Small Enterprises. In respect of bid for Services, the bidder must be the Service provider of the offered Service. Relevant
+documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted
+documentary evidence in this regard shall be uploaded along with the bid in respect of the offered product or service. If L-1 is not an MSE and MSE Seller (s) has/have quoted
+price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be
+price within L-1+ 15% of margin of purchase preference /price band defined in relevant policy, such Seller shall be given opportunity to match L-1 price and contract will be
+awarded for percentage of 25% of total value.
+awarded for percentage of 25% of total value.
+Inspection
+Inspection
+Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER):
+Pre-dispatch inspection at Seller premises (Fee/Charges to be borne by the BUYER):
+ Before dispatch, the goods will be inspected by Buyer / Consignee or their Authorized
+ Before dispatch, the goods will be inspected by Buyer / Consignee or their Authorized
+Representative or by Nominated External Inspection Agency (independently or jointly with Buyer or Consignee as decided by the Buyer) at Seller premises (or at designated place
+Representative or by Nominated External Inspection Agency (independently or jointly with Buyer or Consignee as decided by the Buyer) at Seller premises (or at designated place
+for inspection as declared / communicated by the seller) for their compliance to the contract specifications. Fee/Charges taken by the External inspection Agency and any external
+for inspection as declared / communicated by the seller) for their compliance to the contract specifications. Fee/Charges taken by the External inspection Agency and any external
+laboratories testing charges shall be borne by the Buyer. For in-house testing, the Sellers will provide necessary facilities free of cost. Seller shall notify the Buyer through e-mail
+laboratories testing charges shall be borne by the Buyer. For in-house testing, the Sellers will provide necessary facilities free of cost. Seller shall notify the Buyer through e-mail
+about readiness of goods for pre-dispatch inspection and Buyer will notify the Seller about the Authorized Representative/ Nominated External Inspection Agency and the date
+about readiness of goods for pre-dispatch inspection and Buyer will notify the Seller about the Authorized Representative/ Nominated External Inspection Agency and the date
+for testing. The goods would be dispatched to consignee only after clearance in pre-dispatch inspection. Consignee's right of rejection as per GTC in respect of the goods finally
+for testing. The goods would be dispatched to consignee only after clearance in pre-dispatch inspection. Consignee's right of rejection as per GTC in respect of the goods finally
+received at his location shall in no way be limited or waived by reason of the goods having previously been inspected, tested and passed by Buyer/ Consignee or its Nominated
+received at his location shall in no way be limited or waived by reason of the goods having previously been inspected, tested and passed by Buyer/ Consignee or its Nominated
+External Inspection Agency prior to the goods' shipment. While bidding, the sellers should take into account 7 days for inspection from the date of email offering the goods for
+External Inspection Agency prior to the goods' shipment. While bidding, the sellers should take into account 7 days for inspection from the date of email offering the goods for
+inspection. Any delay in inspection beyond 7 days shall be on the part of the buyer and shall be regularised without Liquidated Damages.
+inspection. Any delay in inspection beyond 7 days shall be on the part of the buyer and shall be regularised without Liquidated Damages.
+When there is requirement of submission the advance sample, the seller shall inform the buyer promptly through emails about the date of submission of sample to the buyer
+When there is requirement of submission the advance sample, the seller shall inform the buyer promptly through emails about the date of submission of sample to the buyer
+nominated Inspection agency.
+nominated Inspection agency.
+Forms of EMD and PBG
+Forms of EMD and PBG
+Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in
+Successful Bidder can submit the Performance Security in the form of Account Payee Demand Draft also (besides PBG which is allowed as per GeM GTC). DD should be made in
+favour of
+favour of
+DCA, MRAU, CHENNAI
+DCA, MRAU, CHENNAI
+payable at
+payable at
+CHENNAI
+CHENNAI
+. After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15
+. After award of contract, Successful Bidder can upload scanned copy of the DD in place of PBG and has to ensure delivery of hard copy to the original DD to the Buyer within 15
+days of award of contract.
+days of award of contract.
+Buyer Added Bid Specific ATC
+Buyer Added Bid Specific ATC
+Buyer uploaded ATC document 
+Buyer uploaded ATC document 
+Click here to view the file
+Click here to view the file
+Note: This is system generated file. No signature is required. 
+Note: This is system generated file. No signature is required. 
+Print out of this document is not valid for payment/ transaction purpose.
+Print out of this document is not valid for payment/ transaction purpose.

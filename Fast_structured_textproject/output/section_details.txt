@@ -1,0 +1,93 @@
+{
+    "organisation_details": [
+        {
+            "Type": "Central PSU"
+        },
+        {
+            "Ministry": "PMO"
+        },
+        {
+            "Department": "Department of Atomic Energy"
+        },
+        {
+            "Organisation Name": "Directorate of Purchase and Stores"
+        },
+        {
+            "Oﬃce Zone": "Directorate Of Purchase And Stores"
+        }
+    ],
+    "buyer_details": [
+        {
+            "Designation": "APO"
+        },
+        {
+            "Email ID": "apo3mrpu.tndae@nic.in"
+        },
+        {
+            "Address": "MADRAS REGIONAL PURCHASE UNIT, SHASTRI BHAVAN, 4 HADDOWS ROAD,, Chennai, TAMIL NADU-600006, India"
+        }
+    ],
+    "financial_approval_detail": [
+        {
+            "IFD Concurrence": "No"
+        },
+        {
+            "Designation of Administrative Approval": "CAO"
+        },
+        {
+            "Designation of Financial Approval": "DCA"
+        }
+    ],
+    "paying_authority_details": [
+        {
+            "Role": "PAO"
+        },
+        {
+            "Payment Mode": "Offline"
+        },
+        {
+            "Designation": "DCA MRPU"
+        },
+        {
+            "Email ID": "dcamrpu.tndae@nic.in"
+        },
+        {
+            "Address": "MADRAS REGIONAL PURCHASE UNIT, SHASTRI BHAVAN, 4 HADDOWS ROAD,, Chennai, TAMIL NADU-600006, India"
+        }
+    ],
+    "seller_details": [
+        {
+            "GeM Seller ID": "229F190000979703"
+        },
+        {
+            "Company Name": "Balajee Steel Syndicate"
+        },
+        {
+            "Email ID": "bssmanish@gmail.com"
+        },
+        {
+            "Address": "4,SEMBUDOSS STREET,GEORGE TOWN, Chennai, TAMIL NADU-600001, -"
+        },
+        {
+            "MSME Registration number": "UDYAM-TN-02-0043987"
+        },
+        {
+            "GSTIN": "33AACPB0858R1ZM (R)"
+        },
+        {
+            "evaluated by buyer": "Verified"
+        },
+        {
+            "verified by buyer": "Not Verified"
+        },
+        {
+            "MSE Social Category": "General"
+        },
+        {
+            "MSE Gender": "Female GST/TAX"
+        },
+        {
+            "Delivery Instructions": "NA"
+        }
+    ]
+}

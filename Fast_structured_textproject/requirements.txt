@@ -1,0 +1,9 @@
+PyPDF2
+
+fastapi
+
+uvicorn[standard]
+
+pymupdf
+
+requests

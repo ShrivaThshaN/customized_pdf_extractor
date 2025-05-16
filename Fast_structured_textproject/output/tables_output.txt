@@ -1,0 +1,86 @@
+{
+    "Product Details": {
+        "1": {
+            "Product Name": "MS Channels, ISMC 75, as per the attached",
+            "Brand": "Reseller",
+            "Brand Type": "NA",
+            "Catalogue Status": "NA",
+            "Selling As": "NA",
+            "Category Name & Quadrant": "NA (-)",
+            "Model": "MS Channels, ISMC 75, as per the attached specific",
+            "HSN Code": "HSN not specified by seller",
+            "Quantity": "6",
+            "Unit": "metric tonne",
+            "Unit Price": "63130",
+            "Tax Bifurcation": "NA",
+            "Price": "378780",
+            "Inclusive of all Duties and Taxes in INR": "Yes"
+        },
+        "2": {
+            "Product Name": "MS Channels, ISMC 100, as per the attached",
+            "Brand": "Reseller",
+            "Brand Type": "NA",
+            "Catalogue Status": "NA",
+            "Selling As": "NA",
+            "Category Name & Quadrant": "NA (-)",
+            "Model": "MS Channels, ISMC 100, as per the attached specifi",
+            "HSN Code": "HSN not specified by seller",
+            "Quantity": "4",
+            "Unit": "metric tonne",
+            "Unit Price": "63130",
+            "Tax Bifurcation": "NA",
+            "Price": "252520",
+            "Inclusive of all Duties and Taxes in INR": "Yes"
+        }
+    },
+    "Consignee Details": {
+        "1": {
+            "Designation": "-",
+            "Email ID": [
+                "asortwo@igcar.gov.in"
+            ],
+            "Contact": [
+                "044-27480500-22362"
+            ],
+            "Address": [
+                "KANCHEEPURAM, TAMIL NADU-603102, India"
+            ],
+            "Item": [
+                "MS Channels, ISMC 75, as per the attached specifications"
+            ],
+            "Quantity": [
+                "6"
+            ],
+            "Delivery Start After": [
+                "16-Jan-2025"
+            ],
+            "Delivery To Be Completed By": [
+                "16-Apr-2025"
+            ]
+        },
+        "2": {
+            "Designation": "-",
+            "Email ID": [
+                "asortwo@igcar.gov.in"
+            ],
+            "Contact": [
+                "044-27480500-22362"
+            ],
+            "Address": [
+                "KANCHEEPURAM, TAMIL NADU-603102, India"
+            ],
+            "Item": [
+                "MS Channels, ISMC 100"
+            ],
+            "Quantity": [
+                "4"
+            ],
+            "Delivery Start After": [
+                "16-Jan-2025"
+            ],
+            "Delivery To Be Completed By": [
+                "16-Apr-2025"
+            ]
+        }
+    }
+}

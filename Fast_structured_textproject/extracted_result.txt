@@ -1,0 +1,196 @@
+{
+    "section_result": {
+        "contract": [
+            {
+                "contract_no": "GEMC-511687748928774"
+            },
+            {
+                "generated_date": "16-Jan-2025"
+            },
+            {
+                "bid_ra_pbp_no": "GEM/2024/B/5273888"
+            }
+        ],
+        "organisation_details": [
+            {
+                "type": "Central PSU"
+            },
+            {
+                "ministry": "PMO"
+            },
+            {
+                "department": "Department of Atomic Energy"
+            },
+            {
+                "organisation_name": "Directorate of Purchase and Stores"
+            },
+            {
+                "o_ce_zone": "Directorate Of Purchase And Stores"
+            }
+        ],
+        "buyer_details": [
+            {
+                "designation": "APO"
+            },
+            {
+                "email_id": "apo3mrpu.tndae@nic.in"
+            },
+            {
+                "address": "MADRAS REGIONAL PURCHASE UNIT, SHASTRI BHAVAN, 4 HADDOWS ROAD,, Chennai, TAMIL NADU-600006, India"
+            }
+        ],
+        "financial_approval_detail": [
+            {
+                "ifd_concurrence": "No"
+            },
+            {
+                "designation_of_administrative_approval": "CAO"
+            },
+            {
+                "designation_of_financial_approval": "DCA"
+            }
+        ],
+        "paying_authority_details": [
+            {
+                "role": "PAO"
+            },
+            {
+                "payment_mode": "Offline"
+            },
+            {
+                "designation": "DCA MRPU"
+            },
+            {
+                "email_id": "dcamrpu.tndae@nic.in"
+            },
+            {
+                "address": "MADRAS REGIONAL PURCHASE UNIT, SHASTRI BHAVAN, 4 HADDOWS ROAD,, Chennai, TAMIL NADU-600006, India"
+            }
+        ],
+        "seller_details": [
+            {
+                "gem_seller_id": "229F190000979703"
+            },
+            {
+                "company_name": "Balajee Steel Syndicate"
+            },
+            {
+                "email_id": "bssmanish@gmail.com"
+            },
+            {
+                "address": "4,SEMBUDOSS STREET,GEORGE TOWN, Chennai, TAMIL NADU-600001, -"
+            },
+            {
+                "msme_registration_number": "UDYAM-TN-02-0043987"
+            },
+            {
+                "gstin": "33AACPB0858R1ZM (R)"
+            },
+            {
+                "evaluated_by_buyer": "Verified"
+            },
+            {
+                "verified_by_buyer": "Not Verified"
+            },
+            {
+                "mse_social_category": "General"
+            },
+            {
+                "mse_gender": "Female GST/TAX"
+            },
+            {
+                "delivery_instructions": "NA"
+            }
+        ]
+    },
+    "all_tables_result": {
+        "product_details": [
+            {
+                "product_name": "MS Channels, ISMC 75, as per the attached",
+                "brand": "Reseller",
+                "brand_type": "NA",
+                "catalogue_status": "NA",
+                "selling_as": "NA",
+                "category_name_quadrant": "NA (-)",
+                "model": "MS Channels, ISMC 75, as per the attached specific",
+                "hsn_code": "HSN not specified by seller",
+                "quantity": "6",
+                "unit": "metric tonne",
+                "unit_price": "63130",
+                "tax_bifurcation": "NA",
+                "price": "378780",
+                "inclusive_of_all_duties_and_taxes_in_inr": "Yes"
+            },
+            {
+                "product_name": "MS Channels, ISMC 100, as per the attached",
+                "brand": "Reseller",
+                "brand_type": "NA",
+                "catalogue_status": "NA",
+                "selling_as": "NA",
+                "category_name_quadrant": "NA (-)",
+                "model": "MS Channels, ISMC 100, as per the attached specifi",
+                "hsn_code": "HSN not specified by seller",
+                "quantity": "4",
+                "unit": "metric tonne",
+                "unit_price": "63130",
+                "tax_bifurcation": "NA",
+                "price": "252520",
+                "inclusive_of_all_duties_and_taxes_in_inr": "Yes"
+            }
+        ],
+        "consignee_details": [
+            {
+                "designation": "-",
+                "email_id": [
+                    "asortwo@igcar.gov.in"
+                ],
+                "contact": [
+                    "044-27480500-22362"
+                ],
+                "address": [
+                    "DPS/IGCAR, Central Stores Unit, Kalpakkam .,",
+                    "KANCHEEPURAM, TAMIL NADU-603102, India",
+                    "MS Channels, ISMC 75,"
+                ],
+                "item": [
+                    "as per the attached specifications -"
+                ],
+                "quantity": [
+                    "6"
+                ],
+                "delivery_start_after": [
+                    "16-Jan-2025"
+                ],
+                "delivery_to_be_completed_by": [
+                    "16-Apr-2025"
+                ]
+            },
+            {
+                "designation": "-",
+                "email_id": [
+                    "asortwo@igcar.gov.in"
+                ],
+                "contact": [
+                    "044-27480500-22362"
+                ],
+                "address": [
+                    "DPS/IGCAR, Central Stores Unit, Kalpakkam .,",
+                    "KANCHEEPURAM, TAMIL NADU-603102, India",
+                    "MS Channels, ISMC 75,"
+                ],
+                "item": [
+                    "MS Channels, ISMC 100,"
+                ],
+                "quantity": [
+                    "4"
+                ],
+                "delivery_start_after": [
+                    "16-Jan-2025"
+                ],
+                "delivery_to_be_completed_by": [
+                    "16-Apr-2025"
+                ]
+            }
+        ]
+    }
+}
